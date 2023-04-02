@@ -1,0 +1,15 @@
+from pygame import *
+from random import randint
+''' 
+#фоновая музыка
+mixer.init()
+mixer.music.load('space.ogg')
+mixer.music.play()
+'''
+#шрифты и надписи
+font.init()
+font2 = font.Font(None, 36)
+
+
+
+# здесь будет интерфейс
